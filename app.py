@@ -11,17 +11,7 @@ st.set_page_config(
     page_icon="👨🏻‍💻",
     layout="wide",
     initial_sidebar_state="expanded",
-    menu_items={
-        'Get Help': 'https://thanseefuddeen.xyz/',
-        'Report a bug': 'https://www.linkedin.com/in/thanseefpp/',
-        'About': """
-                # Thanks
-                #### Please Go through it.
-                Made by [@thanseefpp](https://github.com/thanseefpp)
-            """
-    }
 )
-
 
 def gemstone_price_prediction(carat, depth, table, x, y, z, cut, color, clarity):
     try:
@@ -48,7 +38,7 @@ def gemstone_price_prediction(carat, depth, table, x, y, z, cut, color, clarity)
 
 
 def load_screen_items():
-    st.markdown("<h1 style='text-align: center;'>💎 Gemstone Price 💸 Prediction 🥰</h1>",
+    st.markdown("<h1 style='text-align: center;'> 💎 Gemstone Price 💸 Prediction</h1>",
                 unsafe_allow_html=True)
 
     col1, col2, col3 = st.columns(3)
