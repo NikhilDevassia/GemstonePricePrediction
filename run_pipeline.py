@@ -15,3 +15,5 @@ if __name__ == "__main__":
         ingest_data, clean_data, model_train, evaluate_model)
     logging.info(
         f'training done, Score is MAE :{mae} , mse: {mse}, rmse{rmse}, r2_score : {r2_score}')
+    
+# print(..........)

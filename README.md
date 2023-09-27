@@ -1,3 +1,2 @@
 # GemstonePricePrediction
 
-ci 
