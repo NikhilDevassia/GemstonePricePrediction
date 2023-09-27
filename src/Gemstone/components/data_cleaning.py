@@ -10,10 +10,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OrdinalEncoder, StandardScaler
 
-from Gemstone.config.exception import CustomException
+from Gemstone.config import CustomException
 from Gemstone.config.logger import logging
-from Gemstone.utils.common import save_object
-
+from Gemstone.utils import save_object
 class DataConfig:
     PREPROCESSOR_OBJ_FILE_PATH = os.path.join('artifacts', 'preprocessor.pkl')
     TRAIN_DATA_PATH = os.path.join('artifacts', 'train.csv')
