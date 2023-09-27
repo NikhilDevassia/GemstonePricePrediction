@@ -1,8 +1,5 @@
 import sys
 
-
-import sys
-
 def error_message_detail(error, error_details):
     """
     Generate an error message with detailed information.
