@@ -43,4 +43,3 @@ for item in list_of_files:
         print(f"{file_name} already exists, skipping.")
 
 
-# print("All files have been created")
