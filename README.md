@@ -37,6 +37,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
+```bash
+# For training the model again 
+python run_pipeline.py
+```
+
 
 # AWS-CICD-Deployment-with-Github-Actions
 
