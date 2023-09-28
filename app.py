@@ -75,6 +75,3 @@ def load_screen_items():
 
 if __name__ == "__main__":
     load_screen_items()
-    # carat ,cut ,color ,clarity, depth, table, x, y, z
-    # 1.11,Premium,D,SI1,60.6,59.0,6.74,6.68,4.06--> 5877
-    # 1.52,Premium,F,VS2,62.2,58.0,7.27,7.33,4.55 --> 13619
