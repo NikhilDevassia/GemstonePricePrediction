@@ -1,7 +1,5 @@
 # GemstonePricePrediction
 
-# cnnClassifier
-
 # How to run?
 ### STEPS:
 
