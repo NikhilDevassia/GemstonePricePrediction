@@ -16,4 +16,3 @@ if __name__ == "__main__":
     logging.info(
         f'training done, Score is MAE :{mae} , mse: {mse}, rmse{rmse}, r2_score : {r2_score}')
     
-# print(..........)
