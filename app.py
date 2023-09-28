@@ -6,10 +6,6 @@ from Gemstone.config import CustomException
 from Gemstone.config import logging
 from Gemstone.pipeline import CustomData, PredictPipeline
 
-# Set the Streamlit configuration to use port 8080
-st.set_config(backend="server")
-st.set_option("server.port", 8501)
-
 st.set_page_config(
     page_title="Gemstone",
     page_icon="👨🏻‍💻",
