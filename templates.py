@@ -41,3 +41,6 @@ for item in list_of_files:
             print(f"Creating an empty file: {file_path}")
     else:
         print(f"{file_name} already exists, skipping.")
+
+
+# print("All files have been created")
