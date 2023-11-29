@@ -1,7 +1,7 @@
 # GemstonePricePrediction
 ### Working Demo
 https://github.com/NikhilDevassia/GemstonePricePrediction/assets/102344001/950ac8a7-c53a-4f57-9b12-283797b59886
-
+[Screencast from 28-11-23 05_12_03 PM IST.webm](https://github.com/NikhilDevassia/GemstonePricePrediction/assets/102344001/48cf907e-063e-443e-a572-eb43de68c04d)
 # How to run?
 ### STEPS:
 
