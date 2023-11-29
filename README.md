@@ -1,4 +1,5 @@
 # GemstonePricePrediction
+Gemstone Price Prediction is a machine learning project designed to estimate the value of gemstones based on various features such as carat, cut, color, clarity, depth, and size.
 ### Working Demo
 [Gemstone.webm](https://github.com/NikhilDevassia/GemstonePricePrediction/assets/102344001/3833b0d1-bc06-4341-9267-991cae47457f)
 # How to run?
