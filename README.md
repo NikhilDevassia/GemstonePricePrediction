@@ -1,8 +1,5 @@
 # GemstonePricePrediction
 ### Working Demo
-https://github.com/NikhilDevassia/GemstonePricePrediction/assets/102344001/950ac8a7-c53a-4f57-9b12-283797b59886
-
-[kidney.webm](https://github.com/NikhilDevassia/GemstonePricePrediction/assets/102344001/f69b8911-88ea-42a3-8169-c1b2b9656af2)
 # How to run?
 ### STEPS:
 
